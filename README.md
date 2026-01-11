@@ -93,9 +93,3 @@ The brief exploration of the Hugging Face `pipeline()` API also suggests that th
 - NLTK
 - Hugging Face Transformers
 - matplotlib, seaborn
-
----
-
-## 📚 References
-- Amazon Fine Food Reviews Dataset (Kaggle)
-- [**Rob Mulla**](https://www.youtube.com/@robmulla)
