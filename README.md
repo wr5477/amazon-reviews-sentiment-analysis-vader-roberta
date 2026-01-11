@@ -68,10 +68,6 @@ Source: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data
 - Visualized relationships using pair plots
 - Compared how VADER and RoBERTa distribute sentiment scores across ratings
 
-📸 *Image suggestion (highly recommended):*  
-- Pairplot comparing VADER vs RoBERTa sentiment scores  
-- Color-coded by star rating
-
 <img width="1558" height="1476" alt="image" src="https://github.com/user-attachments/assets/c5931150-1469-4a0c-b6fa-99aac1f283e7" />
 
 ## 🔍 Key Observations
